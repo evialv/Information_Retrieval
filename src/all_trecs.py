@@ -1,4 +1,13 @@
 """
+NOTE: the code below was used for creating the queries for efficient search amongst the documents given to us by our instructors.
+The goal of the project was to create queries that produce good metrices in trec eval as explained in the report.
+This is just the basic code to create these queries
+For more information about how the queries we created retrive the documents that we want please check the report
+
+"""
+
+
+"""
 
 A1.1 we need to create one file from all the initial queries (in text form)
 filenames ->all the initial queries in seperate files
