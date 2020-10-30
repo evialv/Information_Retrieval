@@ -1,0 +1,156 @@
+<parameters>
+<index>../Lemur_indices/trec7-8</index>
+<rule>method:dirichlet,mu:1000</rule>
+<count>1000</count>
+<trecFormat>true</trecFormat>
+<query><type>indri</type><number>301</number><text>international affairs Organized Crime </text> </query>
+<query><type>indri</type><number>302</number><text>Poliomyelitis and post office Polio </text> </query>
+<query><type>indri</type><number>303</number><text>Hubble Telescope Achievements </text> </query>
+<query><type>indri</type><number>304</number><text>Endangered Species Mammals </text> </query>
+<query><type>indri</type><number>305</number><text>Most Dangerous motor vehicles </text> </query>
+<query><type>indri</type><number>306</number><text>south african Civilian Deaths </text> </query>
+<query><type>indri</type><number>307</number><text>new york Hydroelectric Projects </text> </query>
+<query><type>indri</type><number>308</number><text>Implant Dentistry </text> </query>
+<query><type>indri</type><number>309</number><text>Rap and Crime </text> </query>
+<query><type>indri</type><number>310</number><text>radio network Waves and Brain Cancer </text> </query>
+<query><type>indri</type><number>311</number><text>industrial production Espionage </text> </query>
+<query><type>indri</type><number>312</number><text>Hydroponics </text> </query>
+<query><type>indri</type><number>313</number><text>Magnetic Levitation Maglev </text> </query>
+<query><type>indri</type><number>314</number><text>Marine Vegetation </text> </query>
+<query><type>indri</type><number>315</number><text>Unexplained Highway Accidents </text> </query>
+<query><type>indri</type><number>316</number><text>Polygamy Polyandry Polygyny </text> </query>
+<query><type>indri</type><number>317</number><text>Unsolicited Faxes </text> </query>
+<query><type>indri</type><number>318</number><text>Best Retirement Country </text> </query>
+<query><type>indri</type><number>319</number><text>new york Fuel sources said </text> </query>
+<query><type>indri</type><number>320</number><text>Undersea Fiber Optic Cable </text> </query>
+<query><type>indri</type><number>321</number><text>men women in Parliaments </text> </query>
+<query><type>indri</type><number>322</number><text>international affairs wild art Crime </text> </query>
+<query><type>indri</type><number>323</number><text>Literary Journalistic Plagiarism </text> </query>
+<query><type>indri</type><number>324</number><text>Argentine british gas foreign relations </text> </query>
+<query><type>indri</type><number>325</number><text>Cult Lifestyles </text> </query>
+<query><type>indri</type><number>326</number><text>Ferry Sinkings </text> </query>
+<query><type>indri</type><number>327</number><text>Modern Slavery </text> </query>
+<query><type>indri</type><number>328</number><text>Pope Beatifications </text> </query>
+<query><type>indri</type><number>329</number><text>Mexican air force </text> </query>
+<query><type>indri</type><number>330</number><text>Iran Iraq economic cooperation </text> </query>
+<query><type>indri</type><number>331</number><text>world trade central bank Criticism </text> </query>
+<query><type>indri</type><number>332</number><text>income tax Evasion </text> </query>
+<query><type>indri</type><number>333</number><text>Antibiotics Bacteria Disease </text> </query>
+<query><type>indri</type><number>334</number><text>Export Controls Cryptography </text> </query>
+<query><type>indri</type><number>335</number><text>Adoptive Biological Parents </text> </query>
+<query><type>indri</type><number>336</number><text>black sea Bear Attacks </text> </query>
+<query><type>indri</type><number>337</number><text>Viral Hepatitis </text> </query>
+<query><type>indri</type><number>338</number><text>Risk of Aspirin </text> </query>
+<query><type>indri</type><number>339</number><text>Alzheimer drug trafficking Treatment </text> </query>
+<query><type>indri</type><number>340</number><text>Land Mine Ban </text> </query>
+<query><type>indri</type><number>341</number><text>Airport security council </text> </query>
+<query><type>indri</type><number>342</number><text>Diplomatic Expulsion </text> </query>
+<query><type>indri</type><number>343</number><text>police said Deaths </text> </query>
+<query><type>indri</type><number>344</number><text>Abuses of E Mail </text> </query>
+<query><type>indri</type><number>345</number><text>Overseas Tobacco retail sales </text> </query>
+<query><type>indri</type><number>346</number><text>Educational amp standards </text> </query>
+<query><type>indri</type><number>347</number><text>fish wildlife Extinction </text> </query>
+<query><type>indri</type><number>348</number><text>Agoraphobia </text> </query>
+<query><type>indri</type><number>349</number><text>Metabolism </text> </query>
+<query><type>indri</type><number>350</number><text>health care and Computer Terminals </text> </query>
+<query><type>indri</type><number>351</number><text>Falkland petroleum exploration </text> </query>
+<query><type>indri</type><number>352</number><text>british gas Chunnel environmental impact </text> </query>
+<query><type>indri</type><number>353</number><text>Antarctica exploration </text> </query>
+<query><type>indri</type><number>354</number><text>journalist risks </text> </query>
+<query><type>indri</type><number>355</number><text>ocean remote sensing </text> </query>
+<query><type>indri</type><number>356</number><text>postmenopausal estrogen Britain </text> </query>
+<query><type>indri</type><number>357</number><text>territorial waters dispute </text> </query>
+<query><type>indri</type><number>358</number><text>blood alcohol fatalities </text> </query>
+<query><type>indri</type><number>359</number><text>mutual fund managers predictors </text> </query>
+<query><type>indri</type><number>360</number><text>drug trafficking legalization benefits </text> </query>
+<query><type>indri</type><number>361</number><text>clothing sweatshops </text> </query>
+<query><type>indri</type><number>362</number><text>human rights smuggling </text> </query>
+<query><type>indri</type><number>363</number><text>transportation tunnel disasters </text> </query>
+<query><type>indri</type><number>364</number><text>rabies </text> </query>
+<query><type>indri</type><number>365</number><text>El Nino </text> </query>
+<query><type>indri</type><number>366</number><text>commercial banks cyanide uses </text> </query>
+<query><type>indri</type><number>367</number><text>piracy </text> </query>
+<query><type>indri</type><number>368</number><text>in vitro fertilization </text> </query>
+<query><type>indri</type><number>369</number><text>anorexia nervosa bulimia </text> </query>
+<query><type>indri</type><number>370</number><text>food drug drug trafficking laws </text> </query>
+<query><type>indri</type><number>371</number><text>health care life insurance holistic </text> </query>
+<query><type>indri</type><number>372</number><text>Native north american casino </text> </query>
+<query><type>indri</type><number>373</number><text>encryption equipment export </text> </query>
+<query><type>indri</type><number>374</number><text>Nobel prize winners </text> </query>
+<query><type>indri</type><number>375</number><text>hydrogen atomic energy </text> </query>
+<query><type>indri</type><number>376</number><text>world trade supreme court </text> </query>
+<query><type>indri</type><number>377</number><text>cigar smoking </text> </query>
+<query><type>indri</type><number>378</number><text>euro opposition </text> </query>
+<query><type>indri</type><number>379</number><text>mainstreaming </text> </query>
+<query><type>indri</type><number>380</number><text>obesity medical center treatment </text> </query>
+<query><type>indri</type><number>381</number><text>alternative medicine </text> </query>
+<query><type>indri</type><number>382</number><text>hydrogen fuel automobiles </text> </query>
+<query><type>indri</type><number>383</number><text>mental illness drugs </text> </query>
+<query><type>indri</type><number>384</number><text>space power station moon </text> </query>
+<query><type>indri</type><number>385</number><text>hybrid fuel cars </text> </query>
+<query><type>indri</type><number>386</number><text>teaching disabled children </text> </query>
+<query><type>indri</type><number>387</number><text>radioactive hazardous waste </text> </query>
+<query><type>indri</type><number>388</number><text>organic soil enhancement </text> </query>
+<query><type>indri</type><number>389</number><text>illegal science technology transfer </text> </query>
+<query><type>indri</type><number>390</number><text>orphan drugs </text> </query>
+<query><type>indri</type><number>391</number><text>R and D drug trafficking share prices </text> </query>
+<query><type>indri</type><number>392</number><text>robotics </text> </query>
+<query><type>indri</type><number>393</number><text>mercy killing </text> </query>
+<query><type>indri</type><number>394</number><text>home edition schooling </text> </query>
+<query><type>indri</type><number>395</number><text>tourism </text> </query>
+<query><type>indri</type><number>396</number><text>sick building society syndrome </text> </query>
+<query><type>indri</type><number>397</number><text>automobile recalls </text> </query>
+<query><type>indri</type><number>398</number><text>dismantling west europe arsenal </text> </query>
+<query><type>indri</type><number>399</number><text>oceanographic vessels </text> </query>
+<query><type>indri</type><number>400</number><text>Amazon rain forest </text> </query>
+<query><type>indri</type><number>401</number><text>foreign minister minorities germany ec </text> </query>
+<query><type>indri</type><number>402</number><text>behavioral genetics </text> </query>
+<query><type>indri</type><number>403</number><text>osteoporosis </text> </query>
+<query><type>indri</type><number>404</number><text>northern ireland peace process </text> </query>
+<query><type>indri</type><number>405</number><text>cosmic events </text> </query>
+<query><type>indri</type><number>406</number><text>Parkinson disease </text> </query>
+<query><type>indri</type><number>407</number><text>poaching fish wildlife preserves </text> </query>
+<query><type>indri</type><number>408</number><text>tropical storms </text> </query>
+<query><type>indri</type><number>409</number><text>legal Pan Am 103 </text> </query>
+<query><type>indri</type><number>410</number><text>Schengen agreement reached </text> </query>
+<query><type>indri</type><number>411</number><text>salvaging shipwreck treasure </text> </query>
+<query><type>indri</type><number>412</number><text>airport security council </text> </query>
+<query><type>indri</type><number>413</number><text>steel industrial production </text> </query>
+<query><type>indri</type><number>414</number><text>Cuba sugar exports </text> </query>
+<query><type>indri</type><number>415</number><text>drugs Golden Triangle </text> </query>
+<query><type>indri</type><number>416</number><text>three years Gorges Project </text> </query>
+<query><type>indri</type><number>417</number><text>creativity </text> </query>
+<query><type>indri</type><number>418</number><text>quilts income tax </text> </query>
+<query><type>indri</type><number>419</number><text>recycle automobile tires </text> </query>
+<query><type>indri</type><number>420</number><text>carbon monoxide poisoning </text> </query>
+<query><type>indri</type><number>421</number><text>industrial production hazardous waste disposal </text> </query>
+<query><type>indri</type><number>422</number><text>wild art stolen forged </text> </query>
+<query><type>indri</type><number>423</number><text>Milosevic Mirjana Markovic </text> </query>
+<query><type>indri</type><number>424</number><text>suicides </text> </query>
+<query><type>indri</type><number>425</number><text>counterfeiting money supply </text> </query>
+<query><type>indri</type><number>426</number><text>law enforcement dogs </text> </query>
+<query><type>indri</type><number>427</number><text>UV damage eyes </text> </query>
+<query><type>indri</type><number>428</number><text>declining birth interest rates </text> </query>
+<query><type>indri</type><number>429</number><text>Legionnaires disease </text> </query>
+<query><type>indri</type><number>430</number><text>killer bee attacks </text> </query>
+<query><type>indri</type><number>431</number><text>robotic science technology </text> </query>
+<query><type>indri</type><number>432</number><text>profiling motorists police said </text> </query>
+<query><type>indri</type><number>433</number><text>Greek philosophy stoicism </text> </query>
+<query><type>indri</type><number>434</number><text>Estonia market economy </text> </query>
+<query><type>indri</type><number>435</number><text>curbing population economic growth </text> </query>
+<query><type>indri</type><number>436</number><text>railway accidents </text> </query>
+<query><type>indri</type><number>437</number><text>deregulation natural gas electric power </text> </query>
+<query><type>indri</type><number>438</number><text>tourism cent increase </text> </query>
+<query><type>indri</type><number>439</number><text>inventions scientific discoveries </text> </query>
+<query><type>indri</type><number>440</number><text>child labor </text> </query>
+<query><type>indri</type><number>441</number><text>Lyme disease </text> </query>
+<query><type>indri</type><number>442</number><text>heroic acts </text> </query>
+<query><type>indri</type><number>443</number><text>let us foreign investment south africa </text> </query>
+<query><type>indri</type><number>444</number><text>supercritical fluids </text> </query>
+<query><type>indri</type><number>445</number><text>men women clergy </text> </query>
+<query><type>indri</type><number>446</number><text>tourists violence </text> </query>
+<query><type>indri</type><number>447</number><text>Stirling engine </text> </query>
+<query><type>indri</type><number>448</number><text>ship losses pounds </text> </query>
+<query><type>indri</type><number>449</number><text>antibiotics ineffectiveness </text> </query>
+<query><type>indri</type><number>450</number><text>King Hussein peace process </text> </query>
+</parameters>
